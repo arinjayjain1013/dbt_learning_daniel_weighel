@@ -1,0 +1,7 @@
+sources:
+  - name: sf_trial_5_may
+    database: demo
+    schema : ingestion
+    tables:
+      - name: bike_data
+      - name: weather_table_prod
