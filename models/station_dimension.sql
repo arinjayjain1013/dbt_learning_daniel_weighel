@@ -1,4 +1,4 @@
-Select 
+Select distinct
 start_station_id as station_id,
 start_station_name, 
 start_stattion_lat as start_station_lat,
